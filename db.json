@@ -1,0 +1,28 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Harry Potter",
+      "description": "Wizards and stuff",
+      "author": "JKR"
+    },
+    {
+      "id": 2,
+      "title": "Programming with JS",
+      "description": "Guide to the galaxy",
+      "author": "Unknown"
+    },
+    {
+      "id": 3,
+      "title": null,
+      "description": "Missing title here",
+      "author": "come on"
+    },
+    {
+      "id": 4,
+      "title": "Talmud",
+      "description": "God and stuff",
+      "author": "God maybe"
+    }
+  ]
+}
